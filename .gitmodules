@@ -1,0 +1,21 @@
+[submodule "Closures"]
+	path = Closures
+	url = git@github.com:c4arl0s/Closures.git
+[submodule "Extensions"]
+	path = Extensions
+	url = git@github.com:c4arl0s/Extensions.git
+[submodule "PracticalAnimation"]
+	path = PracticalAnimation
+	url = git@github.com:c4arl0s/PracticalAnimation.git
+[submodule "WorkingWithTheWebHTTPandURLSession"]
+	path = WorkingWithTheWebHTTPandURLSession
+	url = git@github.com:c4arl0s/WorkingWithTheWebHTTPandURLSession.git
+[submodule "WorkingWithTheWebDecodingJSON"]
+	path = WorkingWithTheWebDecodingJSON
+	url = git@github.com:c4arl0s/WorkingWithTheWebDecodingJSON.git
+[submodule "WorkingWithTheWebConcurrency"]
+	path = WorkingWithTheWebConcurrency
+	url = git@github.com:c4arl0s/WorkingWithTheWebConcurrency.git
+[submodule "RestaurantApp"]
+	path = RestaurantApp
+	url = git@github.com:c4arl0s/RestaurantApp.git
