@@ -16,6 +16,3 @@
 [submodule "WorkingWithTheWebConcurrency"]
 	path = WorkingWithTheWebConcurrency
 	url = git@github.com:c4arl0s/WorkingWithTheWebConcurrency.git
-[submodule "RestaurantApp"]
-	path = RestaurantApp
-	url = git@github.com:c4arl0s/RestaurantApp.git
